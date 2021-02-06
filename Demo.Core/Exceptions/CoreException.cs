@@ -2,7 +2,7 @@
 
 namespace Demo.Core.Exceptions
 {
-    // Test Jenkins
+    // Test Jenkins - 1
     public class CoreException : Exception
     {
         internal CoreException(string businessMessage)
