@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Demo.Core.Entities
 {
-    // test pr integration --   4 -- 1.2
+    // test pr integration --   4 -- 1.4
     public class Category : Entity
     {
         public Category()
