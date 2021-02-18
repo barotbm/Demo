@@ -4,7 +4,7 @@ using Microsoft.Extensions.Logging;
 namespace Demo.Common
 {
     public static class LogMessages
-    {
+    { //
         private static readonly Action<ILogger, string, string, long, Exception> RoutePerformance;
 
         static LogMessages()
